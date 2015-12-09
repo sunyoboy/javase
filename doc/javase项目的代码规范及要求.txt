@@ -1,0 +1,6 @@
+javase项目的代码规范及要求
+源码编码统一为GBK
+根据代码所属类别建package
+例如: 
+	log对应java.util.logging 建包com.javase.util.logging
+	  
