@@ -1,5 +1,7 @@
 package com.junit;
 
+import java.util.Enumeration;
+
 public class Test {
 
 	/**
@@ -7,6 +9,8 @@ public class Test {
 	 */
 	public static void main(String[] args) {
 		Thread t;
+		Enumeration e;
+		EnumerationIterator enumIterator;
 	}
 
 }
