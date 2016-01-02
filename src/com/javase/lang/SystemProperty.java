@@ -13,7 +13,6 @@ package com.javase.lang;
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 
-import com.javase.demo.SocketEncoder;
 
 /**
  * 〈一句话功能简述〉<br> 
@@ -40,7 +39,7 @@ public class SystemProperty {
         System.out.println("line.separator的长度: " + separator.length());
         
         
-        if(separator.equals(SocketEncoder.LINE_SEPARATOR)) {
+        if(separator.equals("\r\n")) {
             System.out.println("line.separator : \\r\\n");
         }
         
