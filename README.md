@@ -3,7 +3,7 @@ this project is created for being good at using java standard edition
 Maybe a lot of test files added to this project, Only using it ,you can own it.
 
 ## 进步的方式
-每天都要看代码（优秀的代码）， 我的优势（模仿能力强）， 缺点，缺乏创造力，想象力
+每天都要看代码（优秀的代码）， 优势:学习能力强， 缺点:缺乏创造力，想象力，贪多
 
 ## Java Resource List
  * 21 个最好的Java开发者国外网站 http://www.open-open.com/news/view/1c0bf25/
