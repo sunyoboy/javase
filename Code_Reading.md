@@ -10,7 +10,6 @@
     java.util.HashMap & java.util.LinkedHashMap & java.util.TreeMap
     java.util.HashSet & java.util.LinkedHashSet & java.util.TreeSet
 
-
 ### 1.2.2. 熟悉Java中各种变量类型
 
 ### 1.2.3. 熟悉Java String的使用，熟悉String的各种函数
