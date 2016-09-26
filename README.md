@@ -48,4 +48,5 @@ Maybe a lot of test files added to this project, Only using it ,you can own it.
  ## Test
  * http://docs.spring.io/spring/docs/4.2.8.RELEASE/spring-framework-reference/htmlsingle/#testing
 
- 
+ ## IDE
+ http://www.jetbrains.com/idea/documentation/ 
