@@ -5,6 +5,13 @@ Maybe a lot of test files added to this project, Only using it ,you can own it.
 ## 进步的方式
 每天都要看代码（优秀的代码）， 优势:学习能力强， 缺点:缺乏创造力，想象力，贪多
 
+## mvn
+ * archetype http://blog.csdn.net/u011794238/article/details/48132369
+ * http://maven.apache.org/archetypes/maven-archetype-quickstart/
+
+## mvn command
+   mvn archetype:generate -DgroupId=com.javase -DartifactId=javase -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false -DarchetypeCatalog=local
+
 ## Java Resource List
  * 21 个最好的Java开发者国外网站 http://www.open-open.com/news/view/1c0bf25/
  * 100个高质量Java开发者博客 http://www.importnew.com/7469.html
