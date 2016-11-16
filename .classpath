@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Servlet_lib"/>
-	<classpathentry kind="lib" path="E:/03-java/99-library/commons/common_lib/commons-dbutils-1.6.jar"/>
-	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
-</classpath>
